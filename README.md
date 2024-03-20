@@ -4,6 +4,7 @@ This repository contains two Python scripts designed to facilitate the import of
 
 ## Scripts
 import_spectra_sf.py: Use this script when spectral data is stored in a single .txt file.
+
 import_spectra_mf.py: Use this script when samples are divided into multiple .txt files.
 
 ## Usage
